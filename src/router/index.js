@@ -40,7 +40,7 @@ const routes = [
     }
 ]
 const router = new VueRouter({
-    mode: 'hash', // Use 'history' mode to remove the hash from the URL
+    mode: 'history', // Use 'history' mode to remove the hash from the URL
     routes
 })
 
