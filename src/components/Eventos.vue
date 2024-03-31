@@ -45,11 +45,11 @@
             @sliding-end="onSlideEnd"
         >
           <!-- Slides with custom text -->
-          <b-carousel-slide img-src="./../../public/evento2.jpg"></b-carousel-slide>
+          <b-carousel-slide img-src="/evento2.jpg"></b-carousel-slide>
 
-          <b-carousel-slide img-src="./../../public/evento3.jpg"></b-carousel-slide>
+          <b-carousel-slide img-src="/evento3.jpg"></b-carousel-slide>
 
-          <b-carousel-slide img-src="./../../public/evento4.jpg"></b-carousel-slide>
+          <b-carousel-slide img-src="/evento4.jpg"></b-carousel-slide>
         </b-carousel>
       </div>
 
@@ -76,19 +76,12 @@
     width: 350px;
   }
 }
-.container-events{
-  justify-content: space-between;
-}
-.img-container{
-  height: 300px;
-  width: auto;
-}
 
 .section-services2{
   background-color: #343A40;
 }
 .hero-content3 {
-  background-image: url('./../../public/evento1.jpg');
+  background-image: url('/evento1.jpg');
   background-size: cover;
   background-position: center;
   height: 100vh;

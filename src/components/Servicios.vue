@@ -25,35 +25,35 @@
     </b-row>
 
     <b-row data-aos="fade-up">
-      <b-col class="cards-body">
+      <b-col sm="12" md="6" lg="4" class="cards-body">
         <b-card class="card text-white" title="BLS (Basic Life Support">
         </b-card>
       </b-col>
-      <b-col class="cards-body">
+      <b-col sm="12" class="cards-body">
         <b-card class="card text-white" title="ACLS (Advanced Cardiovascular Life Support)">
         </b-card>
       </b-col>
-      <b-col class="cards-body">
+      <b-col sm="12" class="cards-body">
         <b-card class="card text-white"  title="PALS (Pediatric Advanced Life Support">
         </b-card>
       </b-col>
     </b-row>
     <div class="mt-5">
       <b-row data-aos="fade-up">
-        <b-col class="text-center">
+        <b-col  class="text-center">
           <h1 class="diplomados">Diplomados</h1>
         </b-col>
       </b-row>
       <b-row data-aos="fade-up">
-        <b-col class="cards-body">
+        <b-col sm="12" class="cards-body">
           <b-card class="card text-white" title="Diplomado en Urgencias Médicas Básico">
           </b-card>
         </b-col>
-        <b-col class="cards-body">
+        <b-col sm="12" class="cards-body">
           <b-card class="card text-white" title="Diplomado en Urgencias Médicas Intermedias">
           </b-card>
         </b-col>
-        <b-col class="cards-body">
+        <b-col sm="12" class="cards-body">
           <b-card class="card text-white"  title="Diplomado en Urgencias Médicas Avanzadas">
           </b-card>
         </b-col>
@@ -65,15 +65,15 @@
         </b-col>
       </b-row>
       <b-row data-aos="fade-up">
-        <b-col class="cards-body">
+        <b-col sm="12" class="cards-body">
           <b-card class="card text-white" title="Soporte Vital Básico">
           </b-card>
         </b-col>
-        <b-col class="cards-body">
+        <b-col sm="12" class="cards-body">
           <b-card class="card text-white" title="Soporte Vital Cardiovascular">
           </b-card>
         </b-col>
-        <b-col class="cards-body">
+        <b-col sm="12" class="cards-body">
           <b-card class="card text-white"  title="Soporte Vital Avanzado Pediátrico">
           </b-card>
         </b-col>

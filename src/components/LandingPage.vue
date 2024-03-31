@@ -54,7 +54,7 @@
 
     <div class="espacios3">
     </div>
-    <section class="body-section2">
+    <section class="body-section3">
       <b-row>
         <b-col md="5" sm="6" data-aos="fade-up" data-aos-delay="50" class="text-valores">
           <h1 class="valores">Valores</h1>
@@ -80,7 +80,7 @@
         </b-col>
       </b-row>
     </section>
-    <section>
+    <section >
       <b-row>
         <b-col>
           <Footer/>
@@ -106,7 +106,7 @@ export default defineComponent({
 </script>
 <style lang="css">
 .hero-content {
-  background-image: url('./../../public/img-presentacion.jpg');
+  background-image: url('/img-presentation.png');
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -310,7 +310,14 @@ export default defineComponent({
     background-color: #343A40;
     width: 100%;
     height: 100vh;
-
+  }
+  @media (max-width: 575px) {
+    .body-section2 {
+      height: 95%;
+    }
+    .body-section3{
+      padding:50px
+    }
   }
 
 
