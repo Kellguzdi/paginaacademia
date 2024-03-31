@@ -82,7 +82,7 @@
     </section>
     <section class="footer-section">
       <b-row>
-        <b-col class="mt-5">
+        <b-col class="footer-con">
           <Footer/>
         </b-col>
       </b-row>
@@ -320,6 +320,9 @@ export default defineComponent({
     }
     .footer-section{
       background-color: #343A40;
+    }
+    .footer-con{
+      margin-top: 100px;
     }
   }
 
