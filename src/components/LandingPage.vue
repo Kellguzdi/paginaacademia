@@ -80,9 +80,9 @@
         </b-col>
       </b-row>
     </section>
-    <section >
+    <section class="footer-section">
       <b-row>
-        <b-col>
+        <b-col class="mt-5">
           <Footer/>
         </b-col>
       </b-row>
@@ -317,6 +317,9 @@ export default defineComponent({
     }
     .body-section3{
       padding:50px
+    }
+    .footer-section{
+      background-color: #343A40;
     }
   }
 

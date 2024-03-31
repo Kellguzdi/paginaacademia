@@ -7,7 +7,10 @@
         <p data-aos="fade-up" class="text-white">Descubre más sobre lo que hacemos y mantente al día con las últimas
           noticias y actualizaciones siguiéndonos en nuestras redes sociales. Desde contenido exclusivo hasta consejos
           útiles, nuestros perfiles sociales son el lugar perfecto para sumergirte en nuestro mundo.</p>
-        <Footer/>
+        <b-col class="footer">
+          <Footer/>
+        </b-col>
+
       </b-col>
 
     </b-row>
@@ -35,6 +38,9 @@ import Footer from "@/components/Footer.vue";
     margin-top: 100px;
     height: 150vh;
 
+  }
+  .footer{
+    margin-top: -120px !important;
   }
 }
 
