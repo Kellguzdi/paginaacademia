@@ -322,7 +322,7 @@ export default defineComponent({
       background-color: #343A40;
     }
     .footer-con{
-      margin-top: 1000px !important;
+      margin-top: 200px !important;
     }
   }
 
