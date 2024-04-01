@@ -8,7 +8,7 @@
           <b-col class="son position-absolute">
             <b-col class="text-center home">
               <h1>Academia de Profesionales de la Salud México</h1>
-              <p class="lead">Dedicada a la capacitación para médicos en ACL/BLS/PALS</p>
+              <p class="lead">Dedicada a la capacitación para médicos en BLS/ACLS/PALS</p>
             </b-col>
           </b-col>
         </b-col>

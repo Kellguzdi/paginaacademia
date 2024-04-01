@@ -26,7 +26,7 @@
 
     <b-row data-aos="fade-up">
       <b-col sm="12" md="6" lg="4" class="cards-body">
-        <b-card class="card text-white" title="BLS (Basic Life Support">
+        <b-card class="card text-white" title="BLS (Basic Life Support)">
         </b-card>
       </b-col>
       <b-col sm="12" class="cards-body">
