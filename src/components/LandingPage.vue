@@ -35,10 +35,10 @@
     </section>
     <section class="body-section2">
       <b-row>
-        <b-col sm="1" md="6" data-aos="zoom-in" data-aos-delay="50" class="img-container">
+        <b-col sm="12" md="5" lg="6" data-aos="zoom-in" data-aos-delay="50" class="img-container">
           <img src="./../../public/img-4.jpg" class="img4"/>
         </b-col>
-        <b-col sm="1" md="6" data-aos="fade-up" data-aos-duration="4000" data-aos-delay="50" class="body-text">
+        <b-col sm="12" md="5" lg="6" data-aos="fade-up" data-aos-duration="4000" data-aos-delay="50" class="body-text">
           <h1 class="vision">Visión</h1>
           <p class="text-vision">La visión de la empresa consiste en consolidarse como referente destacado en la
             capacitación médica, ofreciendo cursos especializados como Soporte Vital Cardiovascular Avanzado, Soporte
@@ -56,7 +56,7 @@
     </div>
     <section class="body-section3">
       <b-row>
-        <b-col md="5" sm="6" data-aos="fade-up" data-aos-delay="50" class="text-valores">
+        <b-col sm="12" md="5" data-aos="fade-up" data-aos-delay="50" class="text-valores">
           <h1 class="valores">Valores</h1>
           <br/>
           <h5>* Excelencia</h5>
@@ -75,7 +75,7 @@
           <p class="text-valores1">Priorizar la seguridad en la capacitación y en la prestación de servicios médicos,
             garantizando un entorno seguro para los pacientes y profesionales de la salud</p>
         </b-col>
-        <b-col md="5" sm="6" data-aos="zoom-in" data-aos-delay="50">
+        <b-col sm="12" md="5" data-aos="zoom-in" data-aos-delay="50">
           <img src="./../../public/img-5.jpg" class="img5"/>
         </b-col>
       </b-row>

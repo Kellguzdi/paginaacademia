@@ -1,8 +1,8 @@
 <template>
   <b-navbar toggleable="lg" variant="dark" type="dark" class="navbar text-center" fixed="top">
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-    <b-collapse id="nav-collapse" is-nav>
-      <b-navbar-nav class="nav ml-auto">
+    <b-collapse id="nav-collapse"  is-nav>
+      <b-navbar-nav class="nav ml-auto justify-content-center">
         <b-nav-item href="inicio" class="nav-link">Inicio</b-nav-item>
         <b-nav-item href="servicios" class="nav-link">Servicios</b-nav-item>
         <b-navbar-brand href="inicio"><img src="./../../public/sinfondo.png" width="120"/></b-navbar-brand>
@@ -20,13 +20,17 @@
   opacity: 0.97;
 }
 .nav{
-  justify-content: center;
   text-align: center;
+  flex: 1; /* Permite que los elementos se expandan para llenar el espacio disponible */
+  justify-content: space-around;
 }
 .nav-link{
   color: white;
   font-size: 20px;
-  margin: 0 53.7px;
+  margin: 0 35px;
   margin-top: 10px;
+}
+.navbar-nav {
+
 }
 </style>
